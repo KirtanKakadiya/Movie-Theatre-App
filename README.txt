@@ -23,9 +23,3 @@ The program gui should run regardless of if it gains connection to the database 
 If running the GUI.jar file does not work properly, then compile the code manually, and run the GUI file to get the program running. 
 
 We used connector version 8.0.31 for most users, how ever some members used the 8.0.23 version as well. 
-
-Contributors to the project were:
-- Kirtan Kakadiya (GUI)
-- Kartik Sharma (Database and GUI)
-- Danny Picazo (GUI and Database logic functions)
-- Ryan Mailhiot (Database and Database logic functions)
